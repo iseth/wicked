@@ -2,7 +2,7 @@
 
 # Step-By-Step Wizard Controllers
 
-[![Build Status](https://travis-ci.org/schneems/wicked.svg?branch=master)](https://travis-ci.org/schneems/wicked)
+[![Build Status](https://github.com/zombocom/wicked/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/zombocom/wicked)
 [![Code Climate](https://codeclimate.com/github/schneems/wicked/badges/gpa.svg)](https://codeclimate.com/github/schneems/wicked)
 [![Help Contribute to Open Source](https://www.codetriage.com/schneems/wicked/badges/users.svg)](https://www.codetriage.com/schneems/wicked)
 
@@ -30,6 +30,7 @@ Then run `bundle install` and you're ready to start
 * [Show Current Wizard Progress to User](https://github.com/schneems/wicked/wiki/Show-Current-Wizard-Progress-to-User)
 * [Example App](https://github.com/schneems/wicked_example)
 * [Screencast](http://schneems.com/post/18437886598/wizard-ify-your-rails-controllers-with-wicked)
+* [Devise Onboarding With Wicked by Deanin](https://www.youtube.com/watch?v=P-eYHvgT4KA)
 * [Watch Railscasts episode: #346 Wizard Forms with Wicked](http://railscasts.com/episodes/346-wizard-forms-with-wicked)
 
 ## How
